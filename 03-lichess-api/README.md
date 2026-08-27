@@ -87,7 +87,7 @@ pytest -v
 
 `GET /api/games/user/{username}` es un endpoint anónimo limitado a **1 request concurrente**; en redes compartidas (ej. IPs de sandboxes/CI) puede devolver `429` de forma persistente aunque el código esté correcto. `logs/game_analysis.log` incluye una corrida real contra la API que demuestra los reintentos/backoff funcionando, y `--demo` permite verificar el resto del pipeline de forma determinística. En una red doméstica normal (o con `LICHESS_TOKEN`) el modo en vivo funciona sin este problema.
 
-## Puntos de innovación (extra)
+## Contenido extra
 
 - Modo `--demo` con datos sintéticos para pruebas/CI sin consumir cuota de API.
 - Dashboard combinado (2x2) además de los gráficos individuales pedidos.

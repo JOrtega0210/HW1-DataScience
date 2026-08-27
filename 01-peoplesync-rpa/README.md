@@ -26,7 +26,7 @@ sesión de navegador y sin recargar la página.
    pudieron cargar, y el detalle (DNI + motivo) de cada uno de estos
    últimos.
 6. Además exporta un reporte `.xlsx` por corrida (ver
-   [Innovación](#innovación-reporte-exportado-a-excel)).
+   [Contenido extra](#contenido-extra-reporte-exportado-a-excel)).
 
 **Dato del dataset no compatible con el formulario:** el `<select
 id="genero">` del formulario solo ofrece **"Masculino"** y **"Femenino"**,
@@ -134,7 +134,7 @@ Cada registro fallido/omitido queda además con su propia línea en el log
 durante la corrida, y ante cualquier excepción se guarda una captura en
 `screenshots/error_<DNI>_<timestamp>.png`.
 
-## Innovación: reporte exportado a Excel
+## Contenido extra: reporte exportado a Excel
 
 Además del log de texto (que pide el enunciado), cada corrida genera
 automáticamente un archivo `reports/reporte_<timestamp>.xlsx` con dos
@@ -194,7 +194,7 @@ tras cada corrida, ya que esto es parte de lo evaluado.
 │   ├── driver_factory.py  # Construcción del WebDriver (Selenium Manager)
 │   ├── form_page.py       # Page Object del formulario PeopleSync
 │   ├── state_store.py     # Persistencia del modo resume (opcional)
-│   ├── report_writer.py   # Innovación: exporta reporte .xlsx por corrida
+│   ├── report_writer.py   # Extra: exporta reporte .xlsx por corrida
 │   └── main.py            # Orquestador del flujo completo
 ├── logs/                  # Logs de ejecución (ignorado por git)
 ├── screenshots/           # Capturas de error (ignorado por git)

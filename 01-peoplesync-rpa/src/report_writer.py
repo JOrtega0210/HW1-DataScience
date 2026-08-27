@@ -1,6 +1,6 @@
 """Exportación del reporte de resultados de una corrida a Excel.
 
-Mejora de innovación sobre el mínimo pedido: además del log de texto,
+Contenido extra sobre el mínimo pedido: además del log de texto,
 cada corrida genera un archivo `.xlsx` en `REPORT_DIR` con el detalle
 fila por fila (DNI, nombre, estado, motivo) y una hoja de resumen con los
 totales — listo para adjuntar como evidencia o revisar en Excel sin tener
