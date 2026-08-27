@@ -1,0 +1,29 @@
+# Weekly Lichess tournament schedule.
+# All times are UTC. clock_time is in minutes, clock_increment in seconds.
+tournaments:
+  - name: "Weekly Bullet Arena"
+    weekday: monday
+    time: "18:00"
+    clock_time: 1
+    clock_increment: 0
+    duration_minutes: 60
+    variant: standard
+    rated: true
+
+  - name: "Weekly Blitz Arena"
+    weekday: wednesday
+    time: "19:00"
+    clock_time: 3
+    clock_increment: 2
+    duration_minutes: 90
+    variant: standard
+    rated: true
+
+  - name: "Weekly Rapid Arena"
+    weekday: friday
+    time: "20:00"
+    clock_time: 10
+    clock_increment: 5
+    duration_minutes: 120
+    variant: standard
+    rated: true

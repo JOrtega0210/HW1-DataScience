@@ -1,0 +1,26 @@
+2026-08-26 21:06:08 | INFO | game_analysis | Running in --demo mode: using local sample data from D:\Joaquin\UP\2026-2\DataScience\HW1\3API\fixtures\sample_games.ndjson (no live API calls)
+2026-08-26 21:06:08 | INFO | game_analysis | Retrieved 60 games belonging to 'DemoPlayer'
+2026-08-26 21:06:08 | INFO | game_analysis | Exported raw games to D:\Joaquin\UP\2026-2\DataScience\HW1\3API\output\data\games_DemoPlayer.csv
+2026-08-26 21:06:08 | INFO | game_analysis | Exported stats summary to D:\Joaquin\UP\2026-2\DataScience\HW1\3API\output\data\stats_summary_DemoPlayer.csv
+2026-08-26 21:06:09 | INFO | game_analysis | Saved dashboard to D:\Joaquin\UP\2026-2\DataScience\HW1\3API\output\plots\dashboard_DemoPlayer.png
+2026-08-26 21:06:09 | INFO | game_analysis | Saved individual charts to D:\Joaquin\UP\2026-2\DataScience\HW1\3API\output\plots
+2026-08-26 21:06:09 | INFO | game_analysis | Analysis complete for 'DemoPlayer'
+2026-08-26 21:06:10 | INFO | game_analysis | Fetching up to 30 games for 'DrNykterstein'
+2026-08-26 21:06:11 | WARNING | src.api_client | Rate limited (429). Waiting 2s (attempt 1/5)
+2026-08-26 21:06:14 | WARNING | src.api_client | Rate limited (429). Waiting 2s (attempt 2/5)
+2026-08-26 21:06:17 | WARNING | src.api_client | Rate limited (429). Waiting 2s (attempt 3/5)
+2026-08-26 21:06:20 | WARNING | src.api_client | Rate limited (429). Waiting 2s (attempt 4/5)
+2026-08-26 21:06:22 | ERROR | game_analysis | Failed to fetch games: Rate limit exceeded after 5 attempts on /api/games/user/DrNykterstein
+2026-08-26 21:13:01 | INFO | game_analysis | Running in --demo mode: using local sample data from D:\Joaquin\UP\2026-2\DataScience\HW1\3API\fixtures\sample_games.ndjson (no live API calls)
+2026-08-26 21:13:01 | INFO | game_analysis | Retrieved 60 games belonging to 'DemoPlayer'
+2026-08-26 21:13:01 | INFO | game_analysis | Exported raw games to D:\Joaquin\UP\2026-2\DataScience\HW1\3API\output\data\games_DemoPlayer.csv
+2026-08-26 21:13:01 | INFO | game_analysis | Exported stats summary to D:\Joaquin\UP\2026-2\DataScience\HW1\3API\output\data\stats_summary_DemoPlayer.csv
+2026-08-26 21:13:01 | INFO | game_analysis | Saved dashboard to D:\Joaquin\UP\2026-2\DataScience\HW1\3API\output\plots\dashboard_DemoPlayer.png
+2026-08-26 21:13:02 | INFO | game_analysis | Saved individual charts to D:\Joaquin\UP\2026-2\DataScience\HW1\3API\output\plots
+2026-08-26 21:13:02 | INFO | game_analysis | Analysis complete for 'DemoPlayer'
+2026-08-26 21:13:11 | INFO | game_analysis | Fetching up to 20 games for 'DrNykterstein'
+2026-08-26 21:13:12 | WARNING | src.api_client | Rate limited (429). Waiting 2s (attempt 1/5)
+2026-08-26 21:13:15 | WARNING | src.api_client | Rate limited (429). Waiting 2s (attempt 2/5)
+2026-08-26 21:13:17 | WARNING | src.api_client | Rate limited (429). Waiting 2s (attempt 3/5)
+2026-08-26 21:13:20 | WARNING | src.api_client | Rate limited (429). Waiting 2s (attempt 4/5)
+2026-08-26 21:13:23 | ERROR | game_analysis | Failed to fetch games: Rate limit exceeded after 5 attempts on /api/games/user/DrNykterstein

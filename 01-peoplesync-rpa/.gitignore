@@ -1,0 +1,55 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Configuración local con datos sensibles
+.env
+
+# Bytecode / cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Logs
+logs/*.log
+logs/*.txt
+!logs/.gitkeep
+
+# Capturas de pantalla de errores
+screenshots/*.png
+!screenshots/.gitkeep
+
+# Estado de resume (contiene DNIs procesados, se regenera en cada entorno)
+state/*.json
+!state/.gitkeep
+
+# Reportes de resultados por corrida (se regeneran en cada ejecución)
+reports/*.xlsx
+!reports/.gitkeep
+
+# Drivers descargados manualmente (webdriver-manager los cachea fuera del repo,
+# pero por si se coloca uno local)
+drivers/
+chromedriver.exe
+chromedriver
+
+# Archivos de exploración / temporales
+page.html
+excel_analysis.txt
+
+# Dataset de empleados (contiene datos personales: DNI, teléfono, correo,
+# fecha de nacimiento). No se versiona; colócalo localmente antes de correr
+# el bot (ver README > Instalación).
+*.xlsx
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store

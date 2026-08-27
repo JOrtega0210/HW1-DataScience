@@ -1,0 +1,18 @@
+2026-08-26 21:06:36 | INFO | tournament_automation | Starting tournament automation run (dry_run=True, config=D:\Joaquin\UP\2026-2\DataScience\HW1\3API\config\tournaments.yaml)
+2026-08-26 21:06:36 | INFO | tournament_automation | Skipping 'Weekly Bullet Arena': scheduled start 2026-08-24T18:00:00+00:00 (UTC) already passed
+2026-08-26 21:06:36 | INFO | tournament_automation | Skipping 'Weekly Blitz Arena': scheduled start 2026-08-26T19:00:00+00:00 (UTC) already passed
+2026-08-26 21:06:36 | INFO | tournament_automation | [DRY-RUN] Would create 'Weekly Rapid Arena' at 2026-08-28T20:00:00+00:00 (UTC) | payload={'name': 'Weekly Rapid Arena', 'clockTime': 10, 'clockIncrement': 5, 'minutes': 120, 'waitMinutes': 5, 'startDate': 1787947200000, 'variant': 'standard', 'rated': 'true'}
+2026-08-26 21:06:36 | INFO | tournament_automation | Run report saved to D:\Joaquin\UP\2026-2\DataScience\HW1\3API\output\data\tournament_run_20260827_020636.csv
+2026-08-26 21:06:36 | INFO | tournament_automation | Run summary: {'skipped': 2, 'dry-run': 1}
+2026-08-26 21:06:45 | INFO | tournament_automation | Starting tournament automation run (dry_run=False, config=D:\Joaquin\UP\2026-2\DataScience\HW1\3API\config\tournaments.yaml)
+2026-08-26 21:06:45 | INFO | tournament_automation | Skipping 'Weekly Bullet Arena': scheduled start 2026-08-24T18:00:00+00:00 (UTC) already passed
+2026-08-26 21:06:45 | INFO | tournament_automation | Skipping 'Weekly Blitz Arena': scheduled start 2026-08-26T19:00:00+00:00 (UTC) already passed
+2026-08-26 21:06:45 | ERROR | tournament_automation | API error creating 'Weekly Rapid Arena': Failed to create tournament 'Weekly Rapid Arena': 401 {"error":"Missing authorization header"}
+2026-08-26 21:06:45 | INFO | tournament_automation | Run report saved to D:\Joaquin\UP\2026-2\DataScience\HW1\3API\output\data\tournament_run_20260827_020645.csv
+2026-08-26 21:06:45 | INFO | tournament_automation | Run summary: {'skipped': 2, 'failed': 1}
+2026-08-26 21:13:24 | INFO | tournament_automation | Starting tournament automation run (dry_run=True, config=D:\Joaquin\UP\2026-2\DataScience\HW1\3API\config\tournaments.yaml)
+2026-08-26 21:13:24 | INFO | tournament_automation | Skipping 'Weekly Bullet Arena': scheduled start 2026-08-24T18:00:00+00:00 (UTC) already passed
+2026-08-26 21:13:24 | INFO | tournament_automation | Skipping 'Weekly Blitz Arena': scheduled start 2026-08-26T19:00:00+00:00 (UTC) already passed
+2026-08-26 21:13:24 | INFO | tournament_automation | [DRY-RUN] Would create 'Weekly Rapid Arena' at 2026-08-28T20:00:00+00:00 (UTC) | payload={'name': 'Weekly Rapid Arena', 'clockTime': 10, 'clockIncrement': 5, 'minutes': 120, 'waitMinutes': 5, 'startDate': 1787947200000, 'variant': 'standard', 'rated': 'true'}
+2026-08-26 21:13:24 | INFO | tournament_automation | Run report saved to D:\Joaquin\UP\2026-2\DataScience\HW1\3API\output\data\tournament_run_20260827_021324.csv
+2026-08-26 21:13:24 | INFO | tournament_automation | Run summary: {'skipped': 2, 'dry-run': 1}

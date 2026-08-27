@@ -1,0 +1,4 @@
+name,scheduled_start_utc,status,detail
+Weekly Bullet Arena,2026-08-24 18:00:00+00:00,skipped,start time already passed
+Weekly Blitz Arena,2026-08-26 19:00:00+00:00,skipped,start time already passed
+Weekly Rapid Arena,,failed,"Failed to create tournament 'Weekly Rapid Arena': 401 {""error"":""Missing authorization header""}"

@@ -1,0 +1,61 @@
+id,date,speed,variant,rated,status,color,result,player_rating,rating_diff,opponent,opponent_rating,opening_eco,opening_name
+demo0000,2026-06-01 00:00:00+00:00,bullet,standard,True,mate,black,win,1456,,RookRider,1401,B10,Caro-Kann Defense
+demo0001,2026-06-01 09:00:00+00:00,bullet,standard,True,mate,white,win,1460,,KnightMare42,1487,B10,Caro-Kann Defense
+demo0002,2026-06-01 21:00:00+00:00,blitz,standard,True,mate,white,loss,1450,,KnightMare42,1435,B90,Sicilian Defense: Najdorf Variation
+demo0003,2026-06-02 05:00:00+00:00,bullet,standard,True,mate,black,win,1459,,QueenSac,1483,E60,King's Indian Defense
+demo0004,2026-06-02 12:00:00+00:00,rapid,standard,True,mate,black,win,1467,,RookRider,1423,C50,Italian Game
+demo0005,2026-06-02 22:00:00+00:00,blitz,standard,True,mate,white,loss,1457,,KnightMare42,1465,C60,Ruy Lopez
+demo0006,2026-06-03 08:00:00+00:00,blitz,standard,True,mate,black,loss,1451,,KnightMare42,1490,D02,Queen's Pawn Game
+demo0007,2026-06-03 18:00:00+00:00,blitz,standard,True,mate,white,loss,1444,,SilentBishop,1494,C60,Ruy Lopez
+demo0008,2026-06-04 02:00:00+00:00,bullet,standard,True,mate,black,win,1455,,KnightMare42,1402,A45,Indian Defense
+demo0009,2026-06-04 10:00:00+00:00,blitz,standard,True,mate,black,loss,1445,,QueenSac,1423,B90,Sicilian Defense: Najdorf Variation
+demo0010,2026-06-04 21:00:00+00:00,bullet,standard,True,mate,white,loss,1439,,SilentBishop,1461,C50,Italian Game
+demo0011,2026-06-05 06:00:00+00:00,blitz,standard,True,mate,black,loss,1435,,EnPassant99,1466,A45,Indian Defense
+demo0012,2026-06-05 14:00:00+00:00,bullet,standard,True,mate,black,win,1439,,QueenSac,1472,B90,Sicilian Defense: Najdorf Variation
+demo0013,2026-06-05 21:00:00+00:00,rapid,standard,True,mate,black,loss,1432,,QueenSac,1426,B90,Sicilian Defense: Najdorf Variation
+demo0014,2026-06-06 10:00:00+00:00,rapid,standard,True,mate,black,win,1437,,KnightMare42,1402,B01,Scandinavian Defense
+demo0015,2026-06-06 19:00:00+00:00,rapid,standard,True,mate,white,loss,1425,,QueenSac,1393,E60,King's Indian Defense
+demo0016,2026-06-07 01:00:00+00:00,bullet,standard,True,draw,black,draw,1425,,SilentBishop,1416,C60,Ruy Lopez
+demo0017,2026-06-07 13:00:00+00:00,blitz,standard,True,mate,white,win,1434,,QueenSac,1435,D02,Queen's Pawn Game
+demo0018,2026-06-07 19:00:00+00:00,bullet,standard,True,mate,white,win,1438,,PawnStorm,1439,D02,Queen's Pawn Game
+demo0019,2026-06-08 06:00:00+00:00,bullet,standard,True,mate,white,loss,1431,,KnightMare42,1481,B10,Caro-Kann Defense
+demo0020,2026-06-08 12:00:00+00:00,bullet,standard,True,mate,black,win,1441,,RookRider,1457,C50,Italian Game
+demo0021,2026-06-09 00:00:00+00:00,blitz,standard,True,mate,white,win,1448,,KnightMare42,1398,B10,Caro-Kann Defense
+demo0022,2026-06-09 08:00:00+00:00,blitz,standard,True,mate,white,win,1460,,RookRider,1471,B01,Scandinavian Defense
+demo0023,2026-06-09 16:00:00+00:00,bullet,standard,True,mate,black,win,1470,,SilentBishop,1448,B01,Scandinavian Defense
+demo0024,2026-06-10 02:00:00+00:00,rapid,standard,True,mate,black,win,1482,,KnightMare42,1434,A45,Indian Defense
+demo0025,2026-06-10 09:00:00+00:00,blitz,standard,True,mate,white,loss,1478,,RookRider,1483,B90,Sicilian Defense: Najdorf Variation
+demo0026,2026-06-10 22:00:00+00:00,bullet,standard,True,mate,white,win,1483,,QueenSac,1433,D02,Queen's Pawn Game
+demo0027,2026-06-11 07:00:00+00:00,bullet,standard,True,mate,white,win,1495,,KnightMare42,1449,C60,Ruy Lopez
+demo0028,2026-06-11 14:00:00+00:00,blitz,standard,True,mate,black,win,1500,,RookRider,1514,C50,Italian Game
+demo0029,2026-06-12 01:00:00+00:00,bullet,standard,True,mate,black,win,1509,,KnightMare42,1487,A45,Indian Defense
+demo0030,2026-06-12 09:00:00+00:00,rapid,standard,True,mate,black,loss,1505,,KnightMare42,1487,C50,Italian Game
+demo0031,2026-06-12 17:00:00+00:00,bullet,standard,True,mate,white,loss,1497,,TowerDefense,1522,D02,Queen's Pawn Game
+demo0032,2026-06-13 02:00:00+00:00,bullet,standard,True,mate,black,win,1505,,EnPassant99,1518,B10,Caro-Kann Defense
+demo0033,2026-06-13 11:00:00+00:00,bullet,standard,True,mate,black,loss,1499,,QueenSac,1515,B10,Caro-Kann Defense
+demo0034,2026-06-13 18:00:00+00:00,bullet,standard,True,mate,white,loss,1487,,RookRider,1494,B90,Sicilian Defense: Najdorf Variation
+demo0035,2026-06-14 05:00:00+00:00,blitz,standard,True,mate,white,loss,1480,,QueenSac,1472,B10,Caro-Kann Defense
+demo0036,2026-06-14 13:00:00+00:00,rapid,standard,True,mate,white,loss,1470,,EnPassant99,1442,C60,Ruy Lopez
+demo0037,2026-06-15 00:00:00+00:00,rapid,standard,True,mate,white,win,1475,,KnightMare42,1519,E60,King's Indian Defense
+demo0038,2026-06-15 07:00:00+00:00,rapid,standard,True,mate,black,win,1482,,SilentBishop,1499,D02,Queen's Pawn Game
+demo0039,2026-06-15 17:00:00+00:00,bullet,standard,True,draw,white,draw,1484,,RookRider,1473,C60,Ruy Lopez
+demo0040,2026-06-16 00:00:00+00:00,rapid,standard,True,mate,black,win,1492,,PawnStorm,1500,B10,Caro-Kann Defense
+demo0041,2026-06-16 11:00:00+00:00,blitz,standard,True,mate,white,win,1499,,RookRider,1522,B10,Caro-Kann Defense
+demo0042,2026-06-16 22:00:00+00:00,rapid,standard,True,mate,white,win,1504,,TowerDefense,1479,C50,Italian Game
+demo0043,2026-06-17 05:00:00+00:00,blitz,standard,True,mate,black,win,1512,,TowerDefense,1468,B10,Caro-Kann Defense
+demo0044,2026-06-17 15:00:00+00:00,blitz,standard,True,mate,white,loss,1502,,PawnStorm,1558,B01,Scandinavian Defense
+demo0045,2026-06-17 23:00:00+00:00,bullet,standard,True,mate,black,win,1513,,TowerDefense,1502,B90,Sicilian Defense: Najdorf Variation
+demo0046,2026-06-18 06:00:00+00:00,bullet,standard,True,mate,black,win,1520,,KnightMare42,1556,D02,Queen's Pawn Game
+demo0047,2026-06-18 15:00:00+00:00,bullet,standard,True,mate,black,loss,1509,,TowerDefense,1573,D02,Queen's Pawn Game
+demo0048,2026-06-19 03:00:00+00:00,blitz,standard,True,mate,white,win,1513,,EnPassant99,1477,B90,Sicilian Defense: Najdorf Variation
+demo0049,2026-06-19 13:00:00+00:00,blitz,standard,True,draw,white,draw,1512,,TowerDefense,1555,E60,King's Indian Defense
+demo0050,2026-06-19 22:00:00+00:00,rapid,standard,True,draw,black,draw,1513,,KnightMare42,1558,E60,King's Indian Defense
+demo0051,2026-06-20 06:00:00+00:00,blitz,standard,True,mate,white,loss,1501,,PawnStorm,1533,D02,Queen's Pawn Game
+demo0052,2026-06-20 15:00:00+00:00,bullet,standard,True,mate,black,win,1510,,KnightMare42,1451,B90,Sicilian Defense: Najdorf Variation
+demo0053,2026-06-20 22:00:00+00:00,blitz,standard,True,mate,white,loss,1500,,SilentBishop,1492,E60,King's Indian Defense
+demo0054,2026-06-21 06:00:00+00:00,bullet,standard,True,mate,black,win,1504,,PawnStorm,1440,C60,Ruy Lopez
+demo0055,2026-06-21 18:00:00+00:00,rapid,standard,True,mate,black,loss,1497,,SilentBishop,1472,A45,Indian Defense
+demo0056,2026-06-22 03:00:00+00:00,bullet,standard,True,mate,black,loss,1491,,QueenSac,1554,B90,Sicilian Defense: Najdorf Variation
+demo0057,2026-06-22 13:00:00+00:00,bullet,standard,True,mate,black,loss,1486,,KnightMare42,1448,E60,King's Indian Defense
+demo0058,2026-06-22 18:00:00+00:00,bullet,standard,True,mate,black,win,1495,,PawnStorm,1461,B10,Caro-Kann Defense
+demo0059,2026-06-23 03:00:00+00:00,blitz,standard,True,draw,white,draw,1493,,EnPassant99,1534,B01,Scandinavian Defense
