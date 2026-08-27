@@ -41,10 +41,12 @@ chromedriver
 page.html
 excel_analysis.txt
 
-# Dataset de empleados (contiene datos personales: DNI, teléfono, correo,
-# fecha de nacimiento). No se versiona; colócalo localmente antes de correr
-# el bot (ver README > Instalación).
+# Cualquier otro .xlsx suelto queda ignorado por defecto; el dataset de
+# entrada (Ingreso_Personal_Agosto.xlsx) sí se versiona a propósito, con
+# datos ficticios generados para el ejercicio, como evidencia y para que
+# el bot corra sin pasos manuales adicionales.
 *.xlsx
+!Ingreso_Personal_Agosto.xlsx
 
 # IDE
 .vscode/

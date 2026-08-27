@@ -61,10 +61,11 @@ pip install -r requirements.txt
 copy .env.example .env
 ```
 
-> **Dataset:** `Ingreso_Personal_Agosto.xlsx` no se incluye en el
-> repositorio porque contiene datos personales (DNI, teléfono, correo,
-> fecha de nacimiento). Colócalo en la raíz del proyecto (o cualquier ruta
-> local) y apunta `EXCEL_PATH` en tu `.env` hacia esa ubicación.
+> **Dataset:** `Ingreso_Personal_Agosto.xlsx` (50 registros con datos
+> ficticios generados para este ejercicio) ya viene incluido en la raíz
+> del proyecto, y `EXCEL_PATH` en `.env.example` apunta directamente a
+> él, así que no hace falta ningún paso adicional. Si quieres usar otro
+> archivo, cambia `EXCEL_PATH` en tu `.env` hacia esa ubicación.
 
 ## Configuración
 
@@ -186,7 +187,8 @@ tras cada corrida, ya que esto es parte de lo evaluado.
 ## Estructura del proyecto
 
 ```
-1RPA/
+01-peoplesync-rpa/
+├── Ingreso_Personal_Agosto.xlsx  # Dataset de entrada (datos ficticios)
 ├── src/
 │   ├── config.py          # Config (.env + argparse), sin valores hardcodeados
 │   ├── logger_setup.py    # Logging a consola + archivo con timestamp
