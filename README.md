@@ -22,7 +22,3 @@ cd ..\03-lichess-api
 ```
 
 Cada subproyecto tiene su propio `requirements.txt` y entorno virtual — son independientes entre sí, solo comparten repositorio.
-
-## Video de presentación
-
-Un solo video de hasta 9 minutos cubriendo los tres proyectos (problema, solución, decisiones técnicas, retos y demo). Guiones de apoyo: [`02-sunat-webscraping/GUION_VIDEO.md`](02-sunat-webscraping/GUION_VIDEO.md) y [`03-lichess-api/guion_video.md`](03-lichess-api/guion_video.md).
