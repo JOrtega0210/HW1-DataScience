@@ -2,6 +2,8 @@
 
 Tres retos independientes de automatización, web scraping y consumo de APIs, entregados en un solo repositorio como pide el enunciado. Cada carpeta tiene su propio `README.md` con instrucciones detalladas de instalación y ejecución.
 
+Integrantes: Joaquin Ortega, Sergio Giraldo, Fabian Quispesivana
+
 | Carpeta | Reto | Estado |
 |---|---|---|
 | [`01-peoplesync-rpa/`](01-peoplesync-rpa/README.md) | RPA — registro automático de empleados en PeopleSync | ✅ Completo |
