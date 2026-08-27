@@ -1,0 +1,30 @@
+﻿
+Carpeta: \
+Nombre de host:                                        DESKTOP-SJ9G1JO
+Nombre de tarea:                                       \SUNAT_TipoCambio
+Hora próxima ejecución:                                27/08/2026 07:00:00
+Estado:                                                Listo
+Modo de inicio de sesión:                              Solo interactivo
+Último tiempo de ejecución:                            26/08/2026 21:17:30
+Último resultado:                                      0
+Autor:                                                 DESKTOP-SJ9G1JO\Asus
+Tarea que se ejecutará:                                C:\Users\Asus\Desktop\2026-2\Data_Science_w_Python\WebScraping\run_scraper.bat 
+Iniciar en:                                            N/A
+Comentario:                                            N/A
+Estado de tarea programada:                            Habilitado
+Tiempo de inactividad:                                 Deshabilitado
+Administración de energía:                             Detener en modo Batería, No iniciar en Batería
+Ejecutar como usuario:                                 Asus
+Eliminar tarea si no se vuelve a programar:            Deshabilitado
+Eliminar tarea si ejecuta durante X horas y X minutos: 72:00:00
+Programación:                                          Datos de programación no disponibles en este formato.
+Tipo de programación:                                  Diariamente
+Hora de inicio:                                        07:00:00
+Fecha de inicio:                                       26/08/2026
+Fecha final:                                           N/A
+Días:                                                  Cada 1 día(s)
+Meses:                                                 N/A
+Repetir: cada:                                         Deshabilitado
+Repetir: hasta: hora:                                  Deshabilitado
+Repetir: hasta: duración:                              Deshabilitado
+Repetir: detener si aún se ejecuta:                    Deshabilitado

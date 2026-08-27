@@ -1,0 +1,84 @@
+2026-08-26 21:13:37,734 [INFO] Inicio de ejecucion. Log: C:\Users\Asus\Desktop\2026-2\Data_Science_w_Python\WebScraping\logs\scraper_20260826_211337.log
+2026-08-26 21:13:37,735 [INFO] ====== WebDriver manager ======
+2026-08-26 21:13:38,389 [INFO] Driver [C:\Users\Asus\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-26 21:13:39,018 [INFO] Abriendo https://e-consulta.sunat.gob.pe/cl-at-ittipcam/tcS01Alias
+2026-08-26 21:13:41,997 [INFO] Retrocediendo 31 mes(es) hasta 2024-01
+2026-08-26 21:14:48,961 [INFO] Extrayendo Enero 2024 (1/32)
+2026-08-26 21:14:49,097 [WARNING] Sin tipo de cambio publicado para 2024-01-03
+2026-08-26 21:14:49,791 [INFO]   31 dia(s) extraido(s)
+2026-08-26 21:14:51,985 [INFO] Extrayendo Febrero 2024 (2/32)
+2026-08-26 21:14:52,769 [INFO]   29 dia(s) extraido(s)
+2026-08-26 21:14:54,943 [INFO] Extrayendo Marzo 2024 (3/32)
+2026-08-26 21:14:55,034 [WARNING] Sin tipo de cambio publicado para 2024-03-03
+2026-08-26 21:14:55,054 [WARNING] Sin tipo de cambio publicado para 2024-03-04
+2026-08-26 21:14:55,930 [INFO]   31 dia(s) extraido(s)
+2026-08-26 21:14:58,092 [INFO] Extrayendo Abril 2024 (4/32)
+2026-08-26 21:14:59,069 [INFO]   30 dia(s) extraido(s)
+2026-08-26 21:15:01,265 [INFO] Extrayendo Mayo 2024 (5/32)
+2026-08-26 21:15:02,332 [INFO]   31 dia(s) extraido(s)
+2026-08-26 21:15:04,547 [INFO] Extrayendo Junio 2024 (6/32)
+2026-08-26 21:15:05,509 [INFO]   30 dia(s) extraido(s)
+2026-08-26 21:15:07,710 [INFO] Extrayendo Julio 2024 (7/32)
+2026-08-26 21:15:08,703 [WARNING] Sin tipo de cambio publicado para 2024-07-27
+2026-08-26 21:15:08,717 [WARNING] Sin tipo de cambio publicado para 2024-07-28
+2026-08-26 21:15:08,732 [WARNING] Sin tipo de cambio publicado para 2024-07-29
+2026-08-26 21:15:08,750 [WARNING] Sin tipo de cambio publicado para 2024-07-30
+2026-08-26 21:15:08,781 [INFO]   31 dia(s) extraido(s)
+2026-08-26 21:15:10,978 [INFO] Extrayendo Agosto 2024 (8/32)
+2026-08-26 21:15:11,934 [INFO]   31 dia(s) extraido(s)
+2026-08-26 21:15:14,132 [INFO] Extrayendo Septiembre 2024 (9/32)
+2026-08-26 21:15:15,407 [INFO]   30 dia(s) extraido(s)
+2026-08-26 21:15:17,656 [INFO] Extrayendo Octubre 2024 (10/32)
+2026-08-26 21:15:18,670 [INFO]   31 dia(s) extraido(s)
+2026-08-26 21:15:20,858 [INFO] Extrayendo Noviembre 2024 (11/32)
+2026-08-26 21:15:21,852 [INFO]   30 dia(s) extraido(s)
+2026-08-26 21:15:24,078 [INFO] Extrayendo Diciembre 2024 (12/32)
+2026-08-26 21:15:25,081 [INFO]   31 dia(s) extraido(s)
+2026-08-26 21:15:27,309 [INFO] Extrayendo Enero 2025 (13/32)
+2026-08-26 21:15:28,422 [INFO]   31 dia(s) extraido(s)
+2026-08-26 21:15:30,624 [INFO] Extrayendo Febrero 2025 (14/32)
+2026-08-26 21:15:31,464 [INFO]   28 dia(s) extraido(s)
+2026-08-26 21:15:33,633 [INFO] Extrayendo Marzo 2025 (15/32)
+2026-08-26 21:15:34,959 [INFO]   31 dia(s) extraido(s)
+2026-08-26 21:15:37,143 [INFO] Extrayendo Abril 2025 (16/32)
+2026-08-26 21:15:38,162 [INFO]   30 dia(s) extraido(s)
+2026-08-26 21:15:40,341 [INFO] Extrayendo Mayo 2025 (17/32)
+2026-08-26 21:15:41,503 [INFO]   31 dia(s) extraido(s)
+2026-08-26 21:15:43,774 [INFO] Extrayendo Junio 2025 (18/32)
+2026-08-26 21:15:44,735 [INFO]   30 dia(s) extraido(s)
+2026-08-26 21:15:46,939 [INFO] Extrayendo Julio 2025 (19/32)
+2026-08-26 21:15:47,895 [INFO]   31 dia(s) extraido(s)
+2026-08-26 21:15:50,063 [INFO] Extrayendo Agosto 2025 (20/32)
+2026-08-26 21:15:51,085 [INFO]   31 dia(s) extraido(s)
+2026-08-26 21:15:53,306 [INFO] Extrayendo Septiembre 2025 (21/32)
+2026-08-26 21:15:54,341 [INFO]   30 dia(s) extraido(s)
+2026-08-26 21:15:56,547 [INFO] Extrayendo Octubre 2025 (22/32)
+2026-08-26 21:15:57,564 [INFO]   31 dia(s) extraido(s)
+2026-08-26 21:15:59,731 [INFO] Extrayendo Noviembre 2025 (23/32)
+2026-08-26 21:16:00,667 [INFO]   30 dia(s) extraido(s)
+2026-08-26 21:16:02,863 [INFO] Extrayendo Diciembre 2025 (24/32)
+2026-08-26 21:16:03,688 [WARNING] Sin tipo de cambio publicado para 2025-12-28
+2026-08-26 21:16:03,794 [INFO]   31 dia(s) extraido(s)
+2026-08-26 21:16:06,031 [INFO] Extrayendo Enero 2026 (25/32)
+2026-08-26 21:16:07,002 [INFO]   31 dia(s) extraido(s)
+2026-08-26 21:16:09,193 [INFO] Extrayendo Febrero 2026 (26/32)
+2026-08-26 21:16:10,107 [INFO]   28 dia(s) extraido(s)
+2026-08-26 21:16:12,295 [INFO] Extrayendo Marzo 2026 (27/32)
+2026-08-26 21:16:13,309 [INFO]   31 dia(s) extraido(s)
+2026-08-26 21:16:15,529 [INFO] Extrayendo Abril 2026 (28/32)
+2026-08-26 21:16:16,535 [INFO]   30 dia(s) extraido(s)
+2026-08-26 21:16:18,735 [INFO] Extrayendo Mayo 2026 (29/32)
+2026-08-26 21:16:19,728 [INFO]   31 dia(s) extraido(s)
+2026-08-26 21:16:21,905 [INFO] Extrayendo Junio 2026 (30/32)
+2026-08-26 21:16:22,771 [INFO]   30 dia(s) extraido(s)
+2026-08-26 21:16:24,982 [INFO] Extrayendo Julio 2026 (31/32)
+2026-08-26 21:16:25,961 [INFO]   31 dia(s) extraido(s)
+2026-08-26 21:16:28,139 [INFO] Extrayendo Agosto 2026 (32/32)
+2026-08-26 21:16:29,062 [WARNING] Sin tipo de cambio publicado para 2026-08-28
+2026-08-26 21:16:29,085 [WARNING] Sin tipo de cambio publicado para 2026-08-29
+2026-08-26 21:16:29,101 [WARNING] Sin tipo de cambio publicado para 2026-08-30
+2026-08-26 21:16:29,115 [WARNING] Sin tipo de cambio publicado para 2026-08-31
+2026-08-26 21:16:29,115 [INFO]   31 dia(s) extraido(s)
+2026-08-26 21:16:31,378 [INFO] Guardado 974 fila(s) en C:\Users\Asus\Desktop\2026-2\Data_Science_w_Python\WebScraping\output\tipo_cambio_sunat.csv
+2026-08-26 21:16:31,379 [INFO] 12 dia(s) sin tipo de cambio publicado (ver detalle en el log)
+2026-08-26 21:16:31,380 [INFO] Ejecucion finalizada correctamente
